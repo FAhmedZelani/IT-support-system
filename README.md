@@ -1,6 +1,6 @@
 # IT-support-system
 
-## Abstruct
+## Abstract
 
 This project is aimed to developing a ```IT support management```.  The entire project has been developed keeping in view of the distributed client server computing technology, in mind. The project entitled “IT support management” is a web application. It is developed by Django, SQLite. The project has tried to incorporate all the advance features of Django to fulfill the aim of the project. The application has designed for taking IT services without any barriers and difficulties. 
 
